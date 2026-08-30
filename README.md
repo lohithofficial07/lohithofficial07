@@ -46,7 +46,7 @@ Passionate and results-driven **Full Stack Web Developer  | Java Developer** bui
 ## 💬 Ask Me About
 React.js • JavaScript • Java • Python • HTML • CSS • MySQL • DSA • Git • GitHub • Portfolio  
 
-📫 **Email:** [lohith2141@gmail.com](mailto:lohith2141@gmail.com)  
+📫 **Email:** [iamlohithofficial@gmail.com](mailto:lohith2141@gmail.com)  
 📍 **Location:** Bengaluru, Karnataka  
 
 ---
