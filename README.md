@@ -1,7 +1,5 @@
 <!-- ========================================================= -->
-
 <!--                  LOHITH — GITHUB PROFILE                  -->
-
 <!-- ========================================================= -->
 
 <div align="center">
@@ -17,11 +15,15 @@
 <a href="https://lohithofficial07.github.io/Portfolio/">
   <img src="https://img.shields.io/badge/🌐%20Portfolio-F97316?style=for-the-badge&labelColor=111827" alt="Portfolio"/>
 </a>
+
 &nbsp;
+
 <a href="https://www.linkedin.com/in/lohithofficial07/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
+
 &nbsp;
+
 <a href="mailto:iamlohithofficial@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
@@ -32,21 +34,19 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **Fresher Software Engineer** focused on building modern, responsive, and practical web applications.
+I'm a **Fresher Software Engineer** passionate about building practical, scalable, and user-friendly web applications.
 
-I enjoy working across the stack — from designing clean **React.js interfaces** to developing backend services with **Java & Spring Boot**, while using **MySQL** for reliable data management.
+I work across the full development stack, combining **Java & Spring Boot** for backend development with **React.js & JavaScript** for modern frontend experiences.
+
+I enjoy turning ideas into real-world applications, working with **REST APIs, databases, Git, and GitHub**, while continuously improving my development and problem-solving skills.
 
 ```text
 💻 Frontend        → React.js · JavaScript · HTML · CSS
 ⚙️ Backend         → Java · Spring Boot · REST APIs
 🗄️ Database        → MySQL
 🛠️ Tools           → Git · GitHub · VS Code
-🧠 Problem Solving → DSA · SQL
-```
-
-> 🚀 I don't just learn technologies — I build projects with them.
-
----
+🧠 Core Skills     → DSA · SQL · OOP · Problem Solving
+🚀 Focus           → Full Stack Development
 
 ## ⚡ Tech Stack
 
