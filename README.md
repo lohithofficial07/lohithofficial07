@@ -133,28 +133,6 @@ A clean and responsive task management application designed to help users **crea
 
 <div align="center">
 
-## 🔎 GitHub Username Finder
-
-### Search & Explore GitHub Profiles
-
-A React-based application that uses the **GitHub API** to search users and display useful profile information including repositories, followers, following, and GitHub statistics.
-
-**Tech Stack**
-
-`React.js` `GitHub API` `JavaScript` `CSS`
-
-<br>
-
-<a href="https://lohithofficial.github.io/Github-username-project/">
-  <img src="https://img.shields.io/badge/🚀%20LIVE%20DEMO-F97316?style=for-the-badge&labelColor=111827" alt="GitHub Finder Live Demo"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
 ## 📊 DevScope GitHub Tracker
 
 ### Explore GitHub Activity & Developer Insights
