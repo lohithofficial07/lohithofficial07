@@ -8,7 +8,7 @@
 
 # 👋 Hey, I'm **Lohith**
 
-### `Java Developer` · `Full Stack Developer` · `Problem Solver`
+### `Java Developer` · `Full Stack Developer`
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=650&lines=Building+clean+%26+scalable+web+applications;Java+%7C+Spring+Boot+%7C+React.js;Turning+ideas+into+real-world+projects;Always+learning.+Always+building." alt="Typing SVG" />
 
