@@ -1,124 +1,250 @@
-<!-- README.md for GitHub profile: Lohith -->
-<!-- 🧠 Clean & Professional GitHub Profile README -->
+<!-- ========================================================= -->
+
+<!--                  LOHITH — GITHUB PROFILE                  -->
+
+<!-- ========================================================= -->
+
+<div align="center">
+
+# 👋 Hey, I'm **Lohith**
+
+### `Java Developer` · `Full Stack Developer` · `Problem Solver`
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=650&lines=Building+clean+%26+scalable+web+applications;Java+%7C+Spring+Boot+%7C+React.js;Turning+ideas+into+real-world+projects;Always+learning.+Always+building." alt="Typing SVG" />
+
 <br>
-<br>
-<br>
 
-<div align="center"> 
-  <h1 style="font-family: 'Cursive', 'Poppins', sans-serif; font-size: 50px; font-weight: 800; color: #000000;">
-    👋 HI, I'M <span style="font-family: 'Brush Script MT', cursive;">LOHITH</span>
-  </h1>
-  <h2 style="font-family: 'Poppins', sans-serif; font-size: 40px; font-weight: 600; color: #333333;"> Java Developer / Full Stack Web Developer </h2> 
-</div>
-
----
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/MySQL-%2300f?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot"/>
-  
-</p>
-
----
-
-## 🧠 Professional Summary
-Passionate and results-driven **Full Stack Web Developer  | Java Developer** building efficient, responsive, and visually appealing web applications; proficient in **React.js, JavaScript, Java, Python, Spring Boot, HTML5, CSS3, and MySQL**; experienced in both **frontend** and **backend** development, and skilled in version control using **Git & GitHub**.
-
----
-
-## 🌱 Currently Learning
-**React.js** and **Spring Boot** — building real-world projects to enhance full-stack development expertise.
-
----
-
-## 💼 Portfolio
-<p align="center">
-  <a href="https://lohithofficial.github.io/MyPortfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/My%20Portfolio-%23FF8C00?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-  </a>
-</p>
-**Check out my full portfolio** for all projects, skills, and achievements: [🌐 Visit Portfolio](https://lohithofficial.github.io/MyPortfolio/)
-
----
-
-## 💬 Ask Me About
-React.js • JavaScript • Java • Python • HTML • CSS • MySQL • DSA • Git • GitHub • Portfolio  
-
-📫 **Email:** [iamlohithofficial@gmail.com](mailto:lohith2141@gmail.com)  
-📍 **Location:** Bengaluru, Karnataka  
-
----
-
-## 🌐 Connect With Me
-<p align="center">
-  <a href="https://github.com/Lohith" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/lohithofficial7" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.instagram.com/lohithofficial7_" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://lohithofficial.github.io/MyPortfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23FF8C00?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
-</p>
-
----
-
-## ⚙️ Languages & Tools
-
-| ReactJS | JavaScript | Java | Python | HTML | CSS | MySQL | Spring Boot | Git | GitHub |
-|:-------:|:----------:|:----:|:------:|:---:|:---:|:----:|:-----------:|:--:|:------:|
-| <img src="https://skillicons.dev/icons?i=react" width="50"/> | <img src="https://skillicons.dev/icons?i=js" width="50"/> | <img src="https://skillicons.dev/icons?i=java" width="50"/> | <img src="https://skillicons.dev/icons?i=python" width="50"/> | <img src="https://skillicons.dev/icons?i=html" width="50"/> | <img src="https://skillicons.dev/icons?i=css" width="50"/> | <img src="https://skillicons.dev/icons?i=mysql" width="50"/> | <img src="https://skillicons.dev/icons?i=spring" width="50"/> | <img src="https://skillicons.dev/icons?i=git" width="50"/> | <img src="https://skillicons.dev/icons?i=github" width="50"/> |
-
----
-
-## 💼 Experience
-**Full Stack Java Developer Intern — SkillDzire** (May 2024 – Jul 2024)  
-- Built front-end UI components using **React.js**, **HTML**, and **CSS**.  
-- Developed RESTful APIs using **Spring Boot** and **MySQL**.  
-- Collaborated in **Agile** environment and managed code with **Git/GitHub**.
-
----
-
-## 🚀 Featured Projects
-
-<div align="left">
-
-### 🔹 Task Buddy
-**Tech Stack:** React.js, localStorage  
-**Description:**  
-A modern task management app that allows users to **create, complete, and delete tasks**. Fully responsive UI for seamless usage on both desktop and mobile.  
-**Live Demo:** [🌐 Click Here](https://lohithofficial.github.io/TaskBuddy-Project/)
-
----
-
-### 🔹 GitHub Username Finder
-**Tech Stack:** React.js, GitHub API  
-**Description:**  
-Fetches GitHub user profiles and displays **repositories, followers, and stats**. Clean and minimal interface for easy navigation.  
-**Live Demo:** [🌐 Click Here](https://lohithofficial.github.io/Github-username-project/)
-
----
-
-### 🔹 ToDo List Project
-**Tech Stack:** HTML, CSS, JavaScript  
-**Description:**  
-Classic ToDo app with persistent **localStorage** data. Simple, mobile-friendly design for daily task management.  
-**Live Demo:** [🌐 Click Here](https://lohithofficial.github.io/ToDo-List-Project/)
+<a href="https://lohithofficial07.github.io/Portfolio/">
+  <img src="https://img.shields.io/badge/🌐%20Portfolio-F97316?style=for-the-badge&labelColor=111827" alt="Portfolio"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/lohithofficial7">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="mailto:iamlohithofficial@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
 </div>
 
 ---
 
-## 🧾 Certifications
-- Programming in Java — NPTEL  
-- Full Stack Java — SkillDzire  
-- CSS Basics — HackerRank  
-- Java Basics — HackerRank  
+## 🧑‍💻 About Me
+
+I'm a **Fresher Software Engineer** focused on building modern, responsive, and practical web applications.
+
+I enjoy working across the stack — from designing clean **React.js interfaces** to developing backend services with **Java & Spring Boot**, while using **MySQL** for reliable data management.
+
+```text
+💻 Frontend        → React.js · JavaScript · HTML · CSS
+⚙️ Backend         → Java · Spring Boot · REST APIs
+🗄️ Database        → MySQL
+🛠️ Tools           → Git · GitHub · VS Code
+🧠 Problem Solving → DSA · SQL
+```
+
+> 🚀 I don't just learn technologies — I build projects with them.
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=20&color=FF8C00&center=true&vCenter=true&width=600&lines=“Code+is+like+humor.+When+you+have+to+explain+it,+it's+bad.”;~Lohith+💻" alt="Footer Quote Animation"/>
-</p>
+## ⚡ Tech Stack
+
+<div align="center">
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,js,html,css" />
+
+### Backend & Database
+
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,python" />
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+
+</div>
 
 ---
 
-<p align="center">⭐ Crafted with passion — by <strong>Lohith</strong> ⚡</p>
+## 🎯 What I'm Currently Doing
+
+<table>
+<tr>
+<td width="50%">
+
+### 🌱 Learning
+
+* Spring Boot
+* REST API Development
+* Advanced React.js
+* Full Stack Architecture
+* Data Structures & Algorithms
+
+</td>
+
+<td width="50%">
+
+### 🔨 Building
+
+* Full Stack Java applications
+* React.js projects
+* REST APIs
+* Responsive interfaces
+* Real-world developer projects
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+## 📝 Task Buddy
+
+### Modern Task Management Application
+
+A clean and responsive task management application designed to help users **create, complete, and manage daily tasks** with a simple user-friendly interface.
+
+**Tech Stack**
+
+`React.js` `JavaScript` `localStorage` `CSS`
+
+<br>
+
+<a href="https://lohithofficial07.github.io/Task-Buddy/">
+  <img src="https://img.shields.io/badge/🚀%20LIVE%20DEMO-F97316?style=for-the-badge&labelColor=111827" alt="Task Buddy Live Demo"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🔎 GitHub Username Finder
+
+### Search & Explore GitHub Profiles
+
+A React-based application that uses the **GitHub API** to search users and display useful profile information including repositories, followers, following, and GitHub statistics.
+
+**Tech Stack**
+
+`React.js` `GitHub API` `JavaScript` `CSS`
+
+<br>
+
+<a href="https://lohithofficial.github.io/Github-username-project/">
+  <img src="https://img.shields.io/badge/🚀%20LIVE%20DEMO-F97316?style=for-the-badge&labelColor=111827" alt="GitHub Finder Live Demo"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## ✅ ToDo List
+
+### Simple. Fast. Persistent.
+
+A responsive ToDo application with **localStorage persistence**, allowing users to manage daily tasks without losing their data after refreshing the page.
+
+**Tech Stack**
+
+`HTML` `CSS` `JavaScript` `localStorage`
+
+<br>
+
+<a href="https://lohithofficial.github.io/ToDo-List-Project/">
+  <img src="https://img.shields.io/badge/🚀%20LIVE%20DEMO-F97316?style=for-the-badge&labelColor=111827" alt="ToDo Live Demo"/>
+</a>
+
+</div>
+
+---
+
+# 💼 Experience
+
+### Full Stack Java Developer Intern
+
+**SkillDzire** · May 2024 – July 2024
+
+* Developed responsive frontend components using **React.js, HTML, and CSS**.
+* Built backend **REST APIs using Spring Boot**.
+* Worked with **MySQL** for database operations.
+* Used **Git & GitHub** for version control and project collaboration.
+* Worked in an **Agile development environment**.
+
+---
+
+# 🏆 Certifications
+
+<div align="center">
+
+| Certification         |  Platform  |
+| :-------------------- | :--------: |
+| ☕ Programming in Java |    NPTEL   |
+| 💻 Full Stack Java    | SkillDzire |
+| 🎨 CSS Basics         | HackerRank |
+| ☕ Java Basics         | HackerRank |
+
+</div>
+
+---
+
+# 📊 GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=lohithofficial07&show_icons=true&hide_border=true&theme=transparent&title_color=F97316&icon_color=F97316&text_color=6B7280" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lohithofficial07&layout=compact&hide_border=true&theme=transparent&title_color=F97316&text_color=6B7280" height="165"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=lohithofficial07&hide_border=true&theme=transparent&ring=F97316&fire=F97316&currStreakLabel=F97316" />
+
+</div>
+
+---
+
+# 🌐 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/Lohith">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/lohithofficial7">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/lohithofficial7_">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://lohithofficial07.github.io/Portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-F97316?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### 💡 *"Build. Break. Learn. Improve. Repeat."*
+
+<br>
+
+**Thanks for visiting my profile!** ⭐
+
+<img src="https://komarev.com/ghpvc/?username=lohithofficial07&style=for-the-badge&color=F97316" alt="Profile Views"/>
+
+</div>
