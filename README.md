@@ -1,5 +1,7 @@
 <!-- ========================================================= -->
+
 <!--                  LOHITH — GITHUB PROFILE                  -->
+
 <!-- ========================================================= -->
 
 <div align="center">
@@ -8,22 +10,18 @@
 
 ### `Java Developer` · `Full Stack Developer`
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=650&lines=Building+clean+%26+scalable+web+applications;Java+%7C+Spring+Boot+%7C+React.js;Turning+ideas+into+real-world+projects;Always+learning.+Always+building." alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=700&lines=Building+modern+full-stack+applications;Java+%7C+Spring+Boot+%7C+React.js;Turning+ideas+into+real-world+projects;Learning.+Building.+Improving." alt="Typing SVG" />
 
 <br>
 
 <a href="https://lohithofficial07.github.io/Portfolio/">
   <img src="https://img.shields.io/badge/🌐%20Portfolio-F97316?style=for-the-badge&labelColor=111827" alt="Portfolio"/>
 </a>
-
 &nbsp;
-
 <a href="https://www.linkedin.com/in/lohithofficial07/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-
 &nbsp;
-
 <a href="mailto:iamlohithofficial@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
@@ -34,11 +32,11 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **Fresher Software Engineer** passionate about building practical, scalable, and user-friendly web applications.
+I'm a **Fresher Software Engineer** focused on building practical, scalable, and user-friendly web applications.
 
-I work across the full development stack, combining **Java & Spring Boot** for backend development with **React.js & JavaScript** for modern frontend experiences.
+My primary focus is **Java Full Stack Development**, where I work across the application stack — building responsive interfaces with **React.js**, developing backend services with **Java & Spring Boot**, creating **REST APIs**, and managing data with **MySQL**.
 
-I enjoy turning ideas into real-world applications, working with **REST APIs, databases, Git, and GitHub**, while continuously improving my development and problem-solving skills.
+I enjoy turning ideas into working applications and continuously improving my skills through hands-on projects, problem solving, and learning modern development practices.
 
 ```text
 💻 Frontend        → React.js · JavaScript · HTML · CSS
@@ -46,7 +44,12 @@ I enjoy turning ideas into real-world applications, working with **REST APIs, da
 🗄️ Database        → MySQL
 🛠️ Tools           → Git · GitHub · VS Code
 🧠 Core Skills     → DSA · SQL · OOP · Problem Solving
-🚀 Focus           → Full Stack Development
+🚀 Focus           → Java Full Stack Development
+```
+
+> 🚀 I believe the best way to learn software development is to build, experiment, and improve.
+
+---
 
 ## ⚡ Tech Stack
 
@@ -60,7 +63,7 @@ I enjoy turning ideas into real-world applications, working with **REST APIs, da
 
 <img src="https://skillicons.dev/icons?i=java,spring,mysql,python" />
 
-### Tools
+### Tools & Development
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
@@ -76,11 +79,13 @@ I enjoy turning ideas into real-world applications, working with **REST APIs, da
 
 ### 🌱 Learning
 
-* Spring Boot
+* Advanced **Java & Spring Boot**
 * REST API Development
-* Advanced React.js
-* Full Stack Architecture
+* React.js & Modern Frontend Development
+* Full Stack Application Architecture
 * Data Structures & Algorithms
+* SQL & Database Design
+* Clean Code & Software Development Practices
 
 </td>
 
@@ -88,11 +93,13 @@ I enjoy turning ideas into real-world applications, working with **REST APIs, da
 
 ### 🔨 Building
 
-* Full Stack Java applications
-* React.js projects
-* REST APIs
-* Responsive interfaces
-* Real-world developer projects
+* Full Stack Java Applications
+* Spring Boot REST APIs
+* React.js Applications
+* Real-world Developer Tools
+* Responsive & Modern User Interfaces
+* Projects focused on practical problem solving
+* Deploying and improving production-ready applications
 
 </td>
 </tr>
@@ -108,7 +115,7 @@ I enjoy turning ideas into real-world applications, working with **REST APIs, da
 
 ### Modern Task Management Application
 
-A clean and responsive task management application designed to help users **create, complete, and manage daily tasks** with a simple user-friendly interface.
+A clean and responsive task management application designed to help users **create, complete, organize, and manage daily tasks** through a simple and user-friendly interface.
 
 **Tech Stack**
 
@@ -148,20 +155,22 @@ A React-based application that uses the **GitHub API** to search users and displ
 
 <div align="center">
 
-## ✅ ToDo List
+## 📊 DevScope GitHub Tracker
 
-### Simple. Fast. Persistent.
+### Explore GitHub Activity & Developer Insights
 
-A responsive ToDo application with **localStorage persistence**, allowing users to manage daily tasks without losing their data after refreshing the page.
+A modern GitHub analytics application designed to provide a **clear and interactive view of GitHub profiles, repositories, activity, and developer insights**.
+
+DevScope focuses on transforming GitHub data into an easy-to-understand dashboard for developers who want to explore profiles and repository information in one place.
 
 **Tech Stack**
 
-`HTML` `CSS` `JavaScript` `localStorage`
+`React.js` `JavaScript` `GitHub API` `CSS` `REST API`
 
 <br>
 
-<a href="https://lohithofficial.github.io/ToDo-List-Project/">
-  <img src="https://img.shields.io/badge/🚀%20LIVE%20DEMO-F97316?style=for-the-badge&labelColor=111827" alt="ToDo Live Demo"/>
+<a href="https://devscope-github-tracker.vercel.app">
+  <img src="https://img.shields.io/badge/🚀%20LIVE%20DEMO-F97316?style=for-the-badge&labelColor=111827" alt="DevScope Live Demo"/>
 </a>
 
 </div>
@@ -186,9 +195,9 @@ A responsive ToDo application with **localStorage persistence**, allowing users 
 
 <div align="center">
 
-| Certification         |  Platform  |
-| :-------------------- | :--------: |
-| ☕ Programming in Java |    NPTEL   |
+| Certification         | Platform   |
+| --------------------- | ---------- |
+| ☕ Programming in Java | NPTEL      |
 | 💻 Full Stack Java    | SkillDzire |
 | 🎨 CSS Basics         | HackerRank |
 | ☕ Java Basics         | HackerRank |
@@ -197,7 +206,7 @@ A responsive ToDo application with **localStorage persistence**, allowing users 
 
 ---
 
-# 📊 GitHub
+# 📊 GitHub Statistics
 
 <div align="center">
 
@@ -217,20 +226,20 @@ A responsive ToDo application with **localStorage persistence**, allowing users 
 
 <div align="center">
 
-<a href="https://github.com/Lohith">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/lohithofficial07">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
+
+ 
 
 <a href="https://www.linkedin.com/in/lohithofficial07/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
-<a href="https://www.instagram.com/lohithofficial7_">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
+ 
 
 <a href="https://lohithofficial07.github.io/Portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-F97316?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-F97316?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
 </a>
 
 </div>
@@ -244,6 +253,8 @@ A responsive ToDo application with **localStorage persistence**, allowing users 
 <br>
 
 **Thanks for visiting my profile!** ⭐
+
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=lohithofficial07&style=for-the-badge&color=F97316" alt="Profile Views"/>
 
